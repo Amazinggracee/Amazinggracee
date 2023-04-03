@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on a To-do list project. Is a JavaScript application that implements a to-do list created to help you orginize your daily activities by keeping them listed that you can consult whenever you want, with a feature of add, remove, and mark tasks as completed. It uses the DOM API to interact with the HTML elements, and it uses local storage to save the tasks.
 - 🌱 I’m currently learning JAVASCRIPT AND NETWORKING
 - 👯 I’m looking to collaborate on To-do list project
-- 🤔 I’m looking for help with my peers at Microverse
-- 💬 Ask me about www.microverse.org
+- 🤔 I’m looking for help with my peers at  www.microverse.org
+- 💬 Ask me about software engineering, fashion designing and the latest food recipe in town.
 - 📫 How to reach me: amaradimkpa1@gmail.com
 - 😄 Pronouns: "she", "her"
 - ⚡ Fun fact: I have 2+ years of remote work experience with devs 
