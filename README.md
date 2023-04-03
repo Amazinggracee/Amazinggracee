@@ -2,7 +2,7 @@
 ### ![image](https://user-images.githubusercontent.com/107859883/229494629-9f04df7c-ec1b-45dc-8e8c-f691d5e799f4.png)
 
 ### About Me
-I am a fron-end software engineer with 2+ years of experience in building web applications. I specialize in front-end development using technologies such as JavaScript, React, Node.js, HTML/CSS, Semantic UI, and Bootstrap. I am passionate about creating elegant and scalable solutions to complex problems.
+I am a front-end software engineer with 2+ years of experience in building web applications. I specialize in front-end development using technologies such as JavaScript, React, Node.js, HTML/CSS, Semantic UI, and Bootstrap. I am passionate about creating elegant and scalable solutions to complex problems.
 
 - 😄 ### Pronouns: "she", "her"
 
