@@ -4,10 +4,10 @@
 </p>
 
 <p align="center"><em>I am convinced that we can change the world through the power of technology.<br> And I want to be part of those who will make it a better place </em><br><br>Don't hesitate to contact me if you share the same vision.<br>
-  <em>📫 My email: amaradimkpa1@gmail.com
-  - 📫 LinkedIn: https://linkedin.com/in/amarachi-dimkpa-070643183
-- 📫 Twitter: https://twitter.com/amazinggraceu
-- 📫 Github: https://github.com/Amazinggracee
+  <em>📫 My email: amaradimkpa1@gmail.com <br>
+  - 📫 LinkedIn: https://linkedin.com/in/amarachi-dimkpa-070643183 <br>
+- 📫 Twitter: https://twitter.com/amazinggraceu <br>
+- 📫 Github: https://github.com/Amazinggracee <br>
 </em>
 </p>
 
