@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&color=1e9747&width=435&lines=Hi%2C+I'm+Amara;Welcome+to+my+profile..."><br>
 </p>
 
-<p align="center"><em>I am convinced that we can change the world through the power of technology.<br> And I want to be part of those who will make it a better place </em><br><br>Don't hesitate to contact me if you share the same vision.<br>
+<p align="center"><em>I am a Full-Stack Developer. I am convinced that we can change the world through the power of technology.<br> And I want to be part of those who will make it a better place </em><br><br>Don't hesitate to contact me if you share the same vision.<br>
   <em>📫 My email: amaradimkpa1@gmail.com <br>
   - 📫 LinkedIn: https://linkedin.com/in/amarachi-dimkpa-070643183 <br>
 - 📫 Twitter: https://twitter.com/amazinggraceu <br>
