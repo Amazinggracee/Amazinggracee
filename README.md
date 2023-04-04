@@ -4,7 +4,11 @@
 </p>
 
 <p align="center"><em>I am convinced that we can change the world through the power of technology.<br> And I want to be part of those who will make it a better place </em><br><br>Don't hesitate to contact me if you share the same vision.<br>
-  <em>📫 My email: amaradimkpa1@gmail.com</em>
+  <em>📫 My email: amaradimkpa1@gmail.com
+  - 📫 LinkedIn: https://linkedin.com/in/amarachi-dimkpa-070643183
+- 📫 Twitter: https://twitter.com/amazinggraceu
+- 📫 Github: https://github.com/Amazinggracee
+</em>
 </p>
 
 
@@ -37,28 +41,16 @@
     <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
   </p>
 
-### Work Experience
-###Software Engineer Student, www.microverse.org  (2022 - Present).
-- I am currently learning full-stack software development at www.microverse.org, a remote software development school that allows developers from all over the world to pair-program and build projects together. I've spent several weeks immersed in remote development, building everything from landing pages to Rails APIs. 
 
-### Software Engineer Intern, Eloti Design Company (2021 April - 2022 December)
-Built and deployed several web applications using HTML, CSS, and JavaScript skills to develop innovative and efficient solutions for the organization.
-
-### Projects
-- 🔭 I’m currently working on a To-do list project. A full-stack web application for managing personal task, and it uses local storage to save the tasks. Here is the link https://github.com/Amazinggracee/To-Do-list
-- 🔭 https://github.com/Amazinggracee/capstone-project - This Capstone Project Built With - Html - CSS - JavaScript
-- 🔭 https://github.com/Amazinggracee/Awesome-books-ES6 - A Node.js website that allows users to add/remove books and authors from a list of books stored in a local storage..
-- 🔭 https://github.com/Amazinggracee/Portfolio1 - This is my design portfolio where I share some of my finished projects.
-
-### Contact Me
-- 📫 LinkedIn: https://linkedin.com/in/amarachi-dimkpa-070643183
-- 📫 Twitter: https://twitter.com/amazinggraceu
-- 📫 Github: https://github.com/Amazinggracee
-- 📫 Email: amaradimkpa1@gmail.com
-
+## Currently
 - 👯 I’m looking to collaborate on To-do list project
 - 🤔 I’m looking for help with my peers at  www.microverse.org
 - 💬 Ask me about software engineering, fashion designing and the latest food recipe in town.
 - ⚡ Fun fact: I have 2+ years of remote work experience with devs 
     from all over the world' and I am ready to say yes to the right offer
+    
+    <!---
+Amazinggracee/Amazinggracee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
