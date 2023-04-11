@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&color=1e9747&width=435&lines=Hi%2C+I'm+Amara;Welcome+to+my+profile..."><br>
 </p>
-<h3 align="center">I am a Full-Stack Developer. I am convinced that we can change the world through the power of technology. And I want to be part of those who will make it a better place</h3>
+<h3 align="center">I am a Full-Stack Developer. I am convinced that we can change the world through the power of technology. And I want to be part of those who will make the world a better place</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amazinggracee&label=Profile%20views&color=0e75b6&style=flat" alt="amazinggracee" /> </p>
 
