@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amazinggraceu" target="blank"><img src="https://img.shields.io/twitter/follow/amazinggraceu?logo=twitter&style=for-the-badge" alt="amazinggraceu" /></a> </p>
 
-- 🔭 I’m currently working on [To-do-list](https://github.com/Amazinggracee/To-Do-list)
+- 🔭 I’m currently working on [Leaderboard](https://github.com/Amazinggracee/Leaderboard1)
 
 - 🌱 I’m currently learning **JavaScript AND Networking**
 
