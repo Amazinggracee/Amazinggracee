@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/amazinggraceu" target="blank"><img src="https://img.shields.io/twitter/follow/amazinggraceu?logo=twitter&style=for-the-badge" alt="amazinggraceu" /></a> </p>
 
-- 🔭 I’m currently working on [Leaderboard](https://github.com/Amazinggracee/Leaderboard1)
+- 🔭 I’m currently working on [Blog-app]https://github.com/Amazinggracee/Blog-app)
 
 - 🌱 I’m currently learning **JavaScript AND Networking**
 
 - 👯 I’m looking to collaborate on [capstone-project](https://github.com/Amazinggracee/capstone-project)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amazinggracee/Portfolio1](https://github.com/Amazinggracee/Portfolio1)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Amazinggracee/Portfolio)
 
 - 💬 Ask me about **software engineering, fashion designing and the latest food recipe in town.**
 
